@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1> Hello guys</h1>
-    <h2>Creat your own fantasy.</h2>
+    <h2>Creat your own Destiny.</h2>
 </body>
 </html>
